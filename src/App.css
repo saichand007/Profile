@@ -1,0 +1,65 @@
+html, body {
+  font-family: 'Open Sans';
+}
+
+.body{
+  background-color:#2C3E50;
+}
+
+.card-white {
+  padding: 16px 10px 6px 9px;
+  border-color: #7796B6;
+  border : 1px solid #7796B6;
+  border-radius: 0 0;
+  box-shadow: none;
+  border-width: 1px;
+  margin-top: 1px;
+}
+
+.mn{
+  margin: 0px !important;
+}
+
+.container
+{ 
+  margin-top: 4.5em;
+  margin-bottom: 4.5em;
+  padding-right: 40px;
+  padding-left: 40px;
+
+}
+
+.icon
+{
+  color:#FFFFFF;
+}
+
+label
+{
+  float: left;
+  color:#dbd9d9; 
+  font-weight: bold;
+  padding-bottom: 2%;
+  
+}
+
+input
+{
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  border-bottom: 1px solid white;
+}
+
+::-webkit-file-upload-button {
+  color: white;
+  border-radius: 1px;
+  border: none;
+  background:#2980B9;
+  padding:7px 15px 7px 15px;
+}
+
+
+.ui.form .field .ui.input input, .ui.form .fields .field .ui.input input {
+  color: white;
+}

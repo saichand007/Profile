@@ -1,0 +1,26 @@
+{
+  "name": "currency-founders",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "moment": "^2.22.1",
+    "react": "^16.4.0",
+    "react-autosuggest": "^9.3.4",
+    "react-datepicker": "^1.5.0",
+    "react-dom": "^16.4.0",
+    "react-dropdown-input": "^0.1.11",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "react-select": "^1.2.1",
+    "redux": "^4.0.0",
+    "semantic-ui": "^2.3.1",
+    "semantic-ui-react": "^0.80.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
